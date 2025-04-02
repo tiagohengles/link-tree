@@ -70,7 +70,7 @@ a {
     border-radius: 8px;
 }
 
-a:houver {
+a:hover {
     background-color: var(--neon-green);
     color: var(--dark-grey);
     transition: 0.4s;
